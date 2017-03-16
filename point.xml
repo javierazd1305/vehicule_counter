@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<polys>
+    <poly name = "a">
+        <polyIn type = "in">
+	    <point coords = "[(121,135),(139,121),(168,138),(145,150)]"/>
+	</polyIn>
+        <polyOut type = "out">
+	    <point coords = "[(155,158),(184,145),(212,171),(174,192)]"/>
+	</polyOut>
+    </poly>
+
+    <poly name = "b">
+        <polyIn type = "in">
+	    <point coords = "[(214,165),(244,181),(270,165),(247,148)]"/>
+	</polyIn>
+        <polyOut type = "out">
+	    <point coords = "[(155,127),(171,117),(199,133),(175,141)]"/>
+	</polyOut>
+    </poly>
+</polys>
